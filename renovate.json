@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "github>renovate-scientific-python/renovate-scientific-python-spec-0"
+  ]
+}
