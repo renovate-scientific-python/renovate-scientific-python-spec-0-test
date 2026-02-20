@@ -163,4 +163,4 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "numpy", specifier = ">=2.0.0" }]
+requires-dist = [{ name = "numpy", specifier = ">=1.25.0" }]
